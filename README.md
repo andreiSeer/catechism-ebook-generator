@@ -1,5 +1,4 @@
 # catechism-ebook-generator
-# Catechism eBook Generator
 
 Um gerador de eBooks que transforma o Catecismo da Igreja Católica em um formato EPUB, permitindo acesso fácil e organizado ao conteúdo.
 
